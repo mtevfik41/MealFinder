@@ -2,7 +2,7 @@
 
 # Meal Finder App
 
-- [Netlify](https://meal-finder-api-app.netlify.app/);
+- [Netlify](https://meal-finder-api-app.netlify.app/)
 
 Search and generate random meals from the [themealdb.com](www.themealdb.com) API
 
